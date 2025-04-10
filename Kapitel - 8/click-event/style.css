@@ -1,0 +1,9 @@
+.kontainer {
+    width: 800px;
+    margin: auto;
+    padding: 30px;
+    background-color: azure;
+}
+h1 {
+    visibility: hidden;
+}
